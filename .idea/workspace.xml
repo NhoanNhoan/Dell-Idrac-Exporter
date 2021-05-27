@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fdbffee-4e38-417d-9628-6f8b29f297bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CompareJsonAndFastJson_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementation of the DMTF Redfish API on Dell EMC PowerEdge Servers.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Implementation of the DMTF Redfish API on Dell EMC PowerEdge Servers.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redfish-tree-architecture.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Redfish-tree-architecture.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chassis/fan.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chassis/network_adapter.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chassis/power_line_input_voltage.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chassis/powercontrol.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chassis/powersupply.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chassis/temperature.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/chassis_variables.go" beforeDir="false" afterPath="$PROJECT_DIR$/config/chassis_variables.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/systems_variables.go" beforeDir="false" afterPath="$PROJECT_DIR$/config/systems_variables.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/variable.go" beforeDir="false" afterPath="$PROJECT_DIR$/config/variable.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/variable.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/variable1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data_examples.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/.idea/gofish-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/AccountService.v1_0_8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/client.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/client_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/common/collection.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/common/collection_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/common/message.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/common/physicalcontext.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/common/protocol.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/common/schedule.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/common/testclient.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/common/types.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/examples/change_login.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/examples/query_chassis.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/examples/query_sessions.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/examples/reboot.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/images/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/images/gofish.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/images/gofish200x117.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/accountservice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/accountservice_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/assembly.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/assembly_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/bios.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/bios_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/chassis.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/chassis_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/compositionservice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/compositionservice_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/computersystem.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/computersystem_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/drive.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/drive_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/endpoint.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/endpoint_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/ethernetinterface.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/ethernetinterface_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/eventdestination.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/eventdestination_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/eventservice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/eventservice_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/hostinterface.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/hostinterface_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/ipaddresses.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/logentry.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/logentry_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/logservice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/logservice_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/manager.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/manager_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/manageraccount.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/manageraccount_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/memory.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/memory_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/memorydomain.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/memorydomain_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/memorymetrics.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/memorymetrics_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/networkadapter.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/networkadapter_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/networkdevicefunction.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/networkdevicefunction_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/networkinterface.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/networkinterface_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/networkport.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/networkport_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/pciedevice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/pciedevice_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/pciefunction.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/pciefunction_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/power.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/power_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/processor.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/processor_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/redundancy.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/redundancy_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/role.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/role_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/secureboot.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/secureboot_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/session.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/session_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/simplestorage.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/simplestorage_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/storage.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/storage_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/task.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/task_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/thermal.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/thermal_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/updateservice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/updateservice_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/vlannetworkinterface.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/vlannetworkinterface_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/redfish/volume.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/serviceroot.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/serviceroot_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/capacity.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/capacity_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/classofservice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/classofservice_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/dataprotectionlineofservice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/dataprotectionlineofservice_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/dataprotectionloscapabilities.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/dataprotectionloscapabilities_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/datasecuritylineofservice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/datasecuritylineofservice_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/datasecurityloscapabilities.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/datasecurityloscapabilities_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/datastoragelineofservice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/datastoragelineofservice_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/datastorageloscapabilities.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/datastorageloscapabilities_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/endpointgroup.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/endpointgroup_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/fileshare.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/fileshare_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/filesystem.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/filesystem_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/ioconnectivitylineofservice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/ioconnectivitylineofservice_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/ioconnectivityloscapabilities.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/ioconnectivityloscapabilities_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/ioperformancelineofservice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/ioperformancelineofservice_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/ioperformanceloscapabilities.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/ioperformanceloscapabilities_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/iostatistics.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/spareresourceset.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/spareresourceset_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/storagegroup.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/storagegroup_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/storagepool.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/storagepool_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/storagereplicainfo.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/storagereplicainfo_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/storageservice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/storageservice_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/storagesystem.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/volume.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/swordfish/volume_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/tools/gen_script.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/tools/generate_from_schema.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/tools/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish/tools/source.tmpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idrac-exporter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/power.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/power.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redfis-v1..json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/redfis-v1..json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redfish-v1-Systems-System.Embedded.1.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/redfish-v1-Systems-System.Embedded.1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redfish-v1-Systems.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/redfish-v1-Systems.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redfish-v1-chassis.Enclosure.Internal.0-1_RAID.Integrated.1-1.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/redfish-v1-chassis.Enclosure.Internal.0-1_RAID.Integrated.1-1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redfish-v1-chassis.System.Embedded.1.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/redfish-v1-chassis.System.Embedded.1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redfish-v1-chassis.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/redfish-v1-chassis.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redfish-vi-jsonschema.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/redfish-vi-jsonschema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage_service/storage_service.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/system.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/bios.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/controller.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/drive.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/ethernet_interface.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/health.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/memory.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/memory_domain.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/networkport.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/processor.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/storage.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/system_collector.go" beforeDir="false" afterPath="$PROJECT_DIR$/system/system_collector.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/volume.go" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Users\kinhn\go\go1.15.3" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1iUG6mbiNRNwrg910c7wG49Mf7f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Downloads\Exporter\Running Version\Exporter\docs" />
+      <recent name="D:\Downloads\Exporter\idrac-exporter" />
+      <recent name="D:\Downloads\Exporter\idrac-exporter\system" />
+      <recent name="E:\Downloads\idrac-exporter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Downloads\idrac-exporter" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="752" y="451" key="#GOROOT" timestamp="1604629204704">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="752" y="451" key="#GOROOT/0.0.1920.1080@0.0.1920.1080" timestamp="1604629204704" />
+    <state x="740" y="285" key="FileChooserDialogImpl" timestamp="1605078297205">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603682676415" />
+    <state x="740" y="285" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1605078297205" />
+    <state x="623" y="234" width="672" height="705" key="search.everywhere.popup" timestamp="1604906545025">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601957866920" />
+    <state x="623" y="234" width="672" height="705" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604906545025" />
+  </component>
+</project>
