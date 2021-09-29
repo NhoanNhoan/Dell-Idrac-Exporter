@@ -36,4 +36,4 @@ workflows:
             - build # only deploy once build job has completed
           filters:
             branches:
-              only: [circleci-editor/main, main] # only deploy on the master branch
+              only: [circleci-editor/master, master] # only deploy on the master branch
